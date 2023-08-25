@@ -1,0 +1,21 @@
+Reaction Formula,Relative Flux,Reaction Name
+Gluc + ATP <=> G6P + ADP ,3,GluKin
+G6P <=> F6P ,3,PGI
+Pi + X5P <=> G3P + H2O + AcP ,6,PKT
+F6P + E4P <=> G3P + S7P ,2,TALA
+G3P + S7P <=> X5P + Ri5P ,2,TKT1
+Ri5P <=> Ru5P ,2,RibIso
+Ru5P <=> X5P ,2,RibEpi
+F6P + G3P <=> X5P + E4P ,2,TKT2
+G3P <=> DHAP ,1,TPI
+DHAP + G3P <=> FBP,1,ALD
+FBP + H2O <=> F6P + Pi ,1,FBPase
+G3P + NAD + Pi <=> BPG + NADH ,2,GAPDH
+ADP + BPG <=> ATP + P3G ,2,PGK
+P3G <=> P2G ,2,PGM
+P2G <=> H2O + PEP ,2,ENO
+ADP + PEP <=> ATP + PYR ,2,PYK
+NAD + PYR + CoA <=> NADH + AcCoA + CO2 ,2,PDH
+CoA + AcP <=> Pi + AcCoA ,6,PTA
+2 AcCoA + NADH <=> CoA + HBCoA + NAD,4,ThioAAR
+H2O + 2 HBCoA <=> 2 CoA + PHB ,2,PHBs

@@ -1,0 +1,17 @@
+Reaction Formula,Relative Flux,Reaction Name
+Gluc + ATP <=> G6P + ADP ,3,GluKin
+G6P + NAD <=> NADH + P6Glac ,3,G6PDH
+H2O + P6Glac <=> P6GLN ,3,PGase
+P6GLN <=> H2O + KDPG ,3,GLNdeh
+KDPG <=> G3P + PYR ,3,KDPGald
+G3P + NAD + Pi <=> BPG + NADH ,3,GAPDH
+ADP + BPG <=> ATP + P3G ,3,PGK
+P3G <=> P2G ,3,PGM
+P2G <=> H2O + PEP ,3,ENO
+ADP + PEP <=> ATP + PYR ,3,PYK
+NADH + AcCoA  <=> NAD + CoA + ACDH ,2,AcdDH
+2 NADH + AcCoA <=> 2 NAD + CoA + ETOH ,2,AlcDH
+PYR + CoA <=> AcCoA + FOR ,6,PFL
+2 AcCoA <=> CoA + AcAcCoA ,2,Thio
+NADH + AcAcCoA <=> NAD + HBCoA ,2,AAR
+H2O + 2 HBCoA <=> 2 CoA + PHB ,1,PHBs

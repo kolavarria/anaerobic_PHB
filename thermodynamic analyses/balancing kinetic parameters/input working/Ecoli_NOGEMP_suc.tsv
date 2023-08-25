@@ -1,0 +1,142 @@
+!!SBtab TableID='ParameterData' TableName='Parameter' TableType='Quantity' Document='E. coli central carbon metabolism - unbalanced kinetic data' SBtabVersion='1.0' Date='2022-3-16'							
+!QuantityType	!Reaction:SBML:reaction:id	!Compound:SBML:species:id	!Mean	!Std	!Unit	!Reaction:Identifiers:kegg.reaction	!Compound:Identifiers:kegg.compound
+equilibrium constant	AAR		320.0748943	301.068284	dimensionless	R01977	
+Michaelis constant	AAR	NADH	0.043	0.007	mM	R01977	C00004
+Michaelis constant	AAR	AcAcCoA	0.05	0.004	mM	R01977	C00332
+substrate catalytic rate constant	AAR		147	4	1/s	R01977	
+Michaelis constant	AAR	NAD	nan	nan	mM	R01977	C00003
+Michaelis constant	AAR	HBCoA	nan	nan	mM	R01977	C03561
+product catalytic rate constant	AAR		nan	nan	1/s	R01977	
+equilibrium constant	ENO		4.631601621	0.995669682	dimensionless	R00658	
+Michaelis constant	ENO	PEP	0.3	0.3	mM	R00658	C00074
+Michaelis constant	ENO	P2G	0.3	0.3	mM	R00658	C00631
+substrate catalytic rate constant	ENO		197.83576	197.83576	1/s	R00658	
+product catalytic rate constant	ENO		nan	nan	1/s	R00658	
+equilibrium constant	GAPDH		0.61626726	0.169979311	dimensionless	R01061	
+Michaelis constant	GAPDH	NAD	0.045	0.004	mM	R01061	C00003
+Michaelis constant	GAPDH	Pi	0.53	0.11	mM	R01061	C00009
+Michaelis constant	GAPDH	G3P	0.89	0.17	mM	R01061	C00118
+substrate catalytic rate constant	GAPDH		268	6	1/s	R01061	
+Michaelis constant	GAPDH	NADH	nan	nan	mM	R01061	C00004
+Michaelis constant	GAPDH	BPG	nan	nan	mM	R01061	C00236
+product catalytic rate constant	GAPDH		nan	nan	1/s	R01061	
+equilibrium constant	PGK		2607.667	793.911	dimensionless	R01512	
+substrate catalytic rate constant	PGK		963	nan	1/s	R01512	
+Michaelis constant	PGK	ATP	0.77	nan	mM	R01512	C00002
+Michaelis constant	PGK	P3G	0.33	nan	mM	R01512	C00197
+product catalytic rate constant	PGK		354	nan	1/s	R01512	
+Michaelis constant	PGK	ADP	0.27	nan	mM	R01512	C00008
+Michaelis constant	PGK	BPG	0.00438	nan	mM	R01512	C00236
+equilibrium constant	PGM		0.162792393	0.040048636	dimensionless	R01518	
+substrate catalytic rate constant	PGM		116	nan	1/s	R01518	
+Michaelis constant	PGM	P3G	nan	nan	mM	R01518	C00197
+Michaelis constant	PGM	P2G	nan	nan	mM	R01518	C00631
+product catalytic rate constant	PGM		nan	nan	1/s	R01518	
+equilibrium constant	PYK		23977.86486	6613.59319	dimensionless	R00200	
+Michaelis constant	PYK	ADP	0.16	nan	mM	R00200	C00008
+Michaelis constant	PYK	PEP	0.31	nan	mM	R00200	C00074
+substrate catalytic rate constant	PYK		226	nan	1/s	R00200	
+Michaelis constant	PYK	ATP	nan	nan	mM	R00200	C00002
+Michaelis constant	PYK	PYR	nan	nan	mM	R00200	C00022
+product catalytic rate constant	PYK		nan	nan	1/s	R00200	
+equilibrium constant	Thio		4.17E-05	2.07E-05	dimensionless	R00238	
+product catalytic rate constant	Thio		3000	nan	1/s	R00238	
+substrate catalytic rate constant	Thio		10	nan	1/s	R00238	
+Michaelis constant	Thio	CoA	0.008	0.002	mM	R00238	C00010
+Michaelis constant	Thio	AcCoA	0.1386	0.0194	mM	R00238	C00024
+Michaelis constant	Thio	AcAcCoA	0.0176	0.0034	mM	R00238	C00332
+equilibrium constant	PGI		0.350348052	0.09663327	dimensionless	R02740	
+Michaelis constant	PGI	F6P	0.147	0.006	mM	R02740	C00085
+Michaelis constant	PGI	G6P	0.28	nan	mM	R02740	C00092
+product catalytic rate constant	PGI		209	13	1/s	R02740	
+substrate catalytic rate constant	PGI		121	7	1/s	R02740	
+equilibrium constant	ALD		11600.1646	3850.699417	dimensionless	R01070	
+Michaelis constant	ALD	DHAP	0.13	nan	mM	R01070	C00111
+Michaelis constant	ALD	FBP	0.19	nan	mM	R01070	C00354
+product catalytic rate constant	ALD		8.2	nan	1/s	R01070	
+Michaelis constant	ALD	G3P	nan	nan	mM	R01070	C00118
+substrate catalytic rate constant	ALD		nan	nan	1/s	R01070	
+equilibrium constant	FBPase		116.7536751	50.37918902	dimensionless	R00762	
+Michaelis constant	FBPase	FBP	0.005	nan	mM	R00762	C00354
+substrate catalytic rate constant	FBPase		25	nan	1/s	R00762	
+Michaelis constant	FBPase	Pi	0.35	nan	mM	R00762	C00009
+Michaelis constant	FBPase	F6P	nan	nan	mM	R00762	C00085
+product catalytic rate constant	FBPase		nan	nan	1/s	R00762	
+equilibrium constant	PDH		980800.7182	903556.0473	dimensionless	R00209	
+Michaelis constant	PDH	PYR	0.515	nan	mM	R00209	C00022
+substrate catalytic rate constant	PDH		95	nan	1/s	R00209	
+Michaelis constant	PDH	CoA	0.022	nan	mM	R00209	C00010
+Michaelis constant	PDH	NAD	nan	nan	mM	R00209	C00003
+Michaelis constant	PDH	NADH	nan	nan	mM	R00209	C00004
+Michaelis constant	PDH	CO2	nan	nan	mM	R00209	C00011
+Michaelis constant	PDH	AcCoA	nan	nan	mM	R00209	C00024
+product catalytic rate constant	PDH		nan	nan	1/s	R00209	
+equilibrium constant	PKT		2.26E+10	1.61E+10	dimensionless	R01621	
+Michaelis constant	PKT	X5P	3.04	nan	mM	R01621	C00231
+substrate catalytic rate constant	PKT		588	30	1/s	R01621	
+Michaelis constant	PKT	Pi	7.5	nan	mM	R01621	C00009
+Michaelis constant	PKT	G3P	nan	nan	mM	R01621	C00118
+Michaelis constant	PKT	AcP	nan	nan	mM	R01621	C00227
+product catalytic rate constant	PKT		nan	nan	1/s	R01621	
+equilibrium constant	PTA		33.43290058	12.82929856	dimensionless	R00230	
+Michaelis constant	PTA	Pi	2.1	0.2	mM	R00230	C00009
+Michaelis constant	PTA	CoA	0.067	0.0053	mM	R00230	C00010
+Michaelis constant	PTA	AcCoA	0.045	0.0041	mM	R00230	C00024
+Michaelis constant	PTA	AcP	0.9	0.1	mM	R00230	C00227
+product catalytic rate constant	PTA		29.6	2	1/s	R00230	
+substrate catalytic rate constant	PTA		228	9	1/s	R00230	
+equilibrium constant	RibEpi		3.941433732	2.382916307	dimensionless	R01529	
+Michaelis constant	RibEpi	X5P	15	nan	mM	R01529	C00231
+product catalytic rate constant	RibEpi		1300	nan	1/s	R01529	
+substrate catalytic rate constant	RibEpi		1300	nan	1/s	R01529	
+Michaelis constant	RibEpi	Ru5P	1.5	nan	mM	R01529	C00199
+equilibrium constant	RibIso		0.428643179	0.194593911	dimensionless	R01056	
+Michaelis constant	RibIso	Ri5P	3.1	nan	mM	R01056	C00117
+substrate catalytic rate constant	RibIso		2100	nan	1/s	R01056	
+Michaelis constant	RibIso	Ru5P	nan	nan	mM	R01056	C00199
+product catalytic rate constant	RibIso		nan	nan	1/s	R01056	
+equilibrium constant	TALA		0.695547544	0.470751821	dimensionless	R08575	
+Michaelis constant	TALA	F6P	0.94	nan	mM	R08575	C00085
+Michaelis constant	TALA	E4P	0.295	nan	mM	R08575	C00279
+Michaelis constant	TALA	G3P	0.038	nan	mM	R08575	C00118
+Michaelis constant	TALA	S7P	0.285	nan	mM	R08575	C05382
+product catalytic rate constant	TALA		12.5	9.5	1/s	R08575	
+substrate catalytic rate constant	TALA		5468.6	166330.6	1/s	R08575	
+equilibrium constant	TKT1		0.215908034	0.169291755	dimensionless	R01641	
+Michaelis constant	TKT1	Ri5P	1.4	nan	mM	R01641	C00117
+Michaelis constant	TKT1	G3P	10	nan	mM	R01641	C00118
+Michaelis constant	TKT1	X5P	0.16	nan	mM	R01641	C00231
+Michaelis constant	TKT1	S7P	1.4	nan	mM	R01641	C05382
+product catalytic rate constant	TKT1		61.32	nan	1/s	R01641	
+substrate catalytic rate constant	TKT1		nan	nan	1/s	R01641	
+equilibrium constant	TKT2		0.015686212	0.012299433	dimensionless	R01067	
+Michaelis constant	TKT2	F6P	1.1	nan	mM	R01067	C00085
+Michaelis constant	TKT2	G3P	2.1	nan	mM	R01067	C00118
+Michaelis constant	TKT2	X5P	0.16	nan	mM	R01067	C00231
+Michaelis constant	TKT2	E4P	0.09	nan	mM	R01067	C00279
+substrate catalytic rate constant	TKT2		75.4	nan	1/s	R01067	
+product catalytic rate constant	TKT2		nan	nan	1/s	R01067	
+equilibrium constant	TPI		9.573650168	3.430857016	dimensionless	R01015	
+Michaelis constant	TPI	DHAP	1.7	0.1	mM	R01015	C00111
+Michaelis constant	TPI	G3P	1	0.1	mM	R01015	C00118
+product catalytic rate constant	TPI		8900	700	1/s	R01015	
+substrate catalytic rate constant	TPI		860	10	1/s	R01015	
+equilibrium constant	FruKin		1211.676257	464.9598504	dimensionless	R00760	
+Michaelis constant	FruKin	Fru	0.07	nan	mM	R00760	C00095
+Michaelis constant	FruKin	ATP	0.16	nan	mM	R00760	C00002
+Michaelis constant	FruKin	F6P	0.287	nan	mM	R00760	C00085
+Michaelis constant	FruKin	ADP	1.143	nan	mM	R00760	C00008
+substrate catalytic rate constant	FruKin		136	nan	1/s	R00760	
+product catalytic rate constant	FruKin		nan	nan	1/s	R00760	
+equilibrium constant	HPM		0.724179228	0.585644984	dimensionless	R08639	
+Michaelis constant	HPM	G1P	10.54	nan	mM	R08639	C00103
+Michaelis constant	HPM	G6P	64.56	nan	mM	R08639	C00092
+substrate catalytic rate constant	HPM		160	nan	1/s	R08639	
+product catalytic rate constant	HPM		nan	nan	1/s	R08639	
+equilibrium constant	SucP		26.24572685	14.53257526	dimensionless	R00803	
+Michaelis constant	SucP	Suc	13	1	mM	R00803	C00089
+Michaelis constant	SucP	Pi	31	4	mM	R00803	C00009
+Michaelis constant	SucP	G1P	74	8	mM	R00803	C00103
+Michaelis constant	SucP	Fru	37	5	mM	R00803	C00095
+substrate catalytic rate constant	SucP		171	15	1/s	R00803	
+product catalytic rate constant	SucP		nan	nan	1/s	R00803	

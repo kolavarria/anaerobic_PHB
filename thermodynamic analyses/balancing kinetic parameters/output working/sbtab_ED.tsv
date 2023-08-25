@@ -1,0 +1,190 @@
+!!SBtab SBtabVersion='1.0' TableID='ParameterBalanced' TableType='Quantity' TableName='Parameter' Document='Ecoli_ED.tsv' Date='2023-05-26'
+!QuantityType	!Reaction:SBML:reaction:id	!Compound:SBML:species:id	!Mode	!Unit	!UnconstrainedGeometricMean	!UnconstrainedGeometricStd	!UnconstrainedMean	!UnconstrainedStd	!Std	!GeometricStd	!Organism	!Reference
+standard chemical potential		G6P	17.21	kJ/mol	NaN	NaN	17.21	266.2152				
+concentration		G6P	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Gluc	41.0522	kJ/mol	NaN	NaN	41.0522	312.6275				
+concentration		Gluc	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		PEP	3.912	kJ/mol	NaN	NaN	3.912	259.5958				
+concentration		PEP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		PYR	-17.0752	kJ/mol	NaN	NaN	-17.0752	274.1471				
+concentration		PYR	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		F6P	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		F6P	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		ADP	1.8543	kJ/mol	NaN	NaN	1.8543	376.3665				
+concentration		ADP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		ATP	-1.8543	kJ/mol	NaN	NaN	-1.8543	376.3665				
+concentration		ATP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		FBP	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		FBP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		DHAP	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		DHAP	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		G3P	-12.4471	kJ/mol	NaN	NaN	-12.4471	294.5525				
+concentration		G3P	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		BPG	10.6477	kJ/mol	NaN	NaN	10.6477	312.6177				
+concentration		BPG	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		NAD	5.4422	kJ/mol	NaN	NaN	5.4422	369.4873				
+concentration		NAD	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		NADH	-5.4422	kJ/mol	NaN	NaN	-5.4422	369.4873				
+concentration		NADH	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Pi	10.7705	kJ/mol	NaN	NaN	10.7705	357.9572				
+concentration		Pi	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		P3G	-4.2889	kJ/mol	NaN	NaN	-4.2889	215.276				
+concentration		P3G	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		P2G	0.4469	kJ/mol	NaN	NaN	0.4469	215.2759				
+concentration		P2G	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		H2O	-6.9999	kJ/mol	NaN	NaN	-6.9999	309.9181				
+concentration		H2O	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		AcCoA	-4.4273	kJ/mol	NaN	NaN	-4.4273	255.9886				
+concentration		AcCoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		Acd	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		Acd	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		CoA	3.6343	kJ/mol	NaN	NaN	3.6343	393.061				
+concentration		CoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		ETOH	-26.7406	kJ/mol	NaN	NaN	-26.7406	344.132				
+concentration		ETOH	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		FOR	-27.6306	kJ/mol	NaN	NaN	-27.6306	298.3119				
+concentration		FOR	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		AcAcCoA	12.8536	kJ/mol	NaN	NaN	12.8536	343.4423				
+concentration		AcAcCoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		HBCoA	-12.0606	kJ/mol	NaN	NaN	-12.0606	299.6153				
+concentration		HBCoA	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		PHB	0.0	kJ/mol	NaN	NaN	0.0	500.0				
+concentration		PHB	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		P6Glac	21.5626	kJ/mol	NaN	NaN	21.5626	225.5655				
+concentration		P6Glac	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		P6GLN	-10.5763	kJ/mol	NaN	NaN	-10.5763	309.4386				
+concentration		P6GLN	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		KDPG	-46.0308	kJ/mol	NaN	NaN	-46.0308	225.5656				
+concentration		KDPG	0.1	mM	0.1	10.0	1.4167	20.0217				
+standard chemical potential		ACDH	1.9513	kJ/mol	NaN	NaN	1.9513	220.177				
+concentration		ACDH	0.1	mM	0.1	10.0	1.4167	20.0217				
+catalytic rate constant geometric mean	GluKin		20.5938	1/s	20.5938	3.584	46.511	94.1866				
+concentration of enzyme	GluKin		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	GluKin		3366.5678	dimensionless	3366.5678	1.6029	3762.9161	1878.9047		1.2		
+substrate catalytic rate constant	GluKin		363.9383	1/s	363.9383	1.6001	406.4546	202.1243		1.2		
+product catalytic rate constant	GluKin		1.1653	1/s	1.1653	11.3815	22.4273	431.0423				
+catalytic rate constant geometric mean	GAPDH		181.4629	1/s	181.4629	5.1674	699.0696	2600.79				
+concentration of enzyme	GAPDH		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	GAPDH		0.5594	dimensionless	0.5594	1.6029	0.6253	0.3122		1.2		
+substrate catalytic rate constant	GAPDH		232.5064	1/s	232.5064	1.6003	259.6839	129.1757		1.2		
+product catalytic rate constant	GAPDH		141.6252	1/s	141.6252	24.5005	23600.0613	3932581.9829				
+catalytic rate constant geometric mean	PGK		511.5281	1/s	511.5281	1.3954	540.7173	185.2549				
+concentration of enzyme	PGK		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	PGK		1846.9322	dimensionless	1846.9322	1.5472	2031.5156	930.6674		1.2		
+substrate catalytic rate constant	PGK		1066.3383	1/s	1066.3383	1.5462	1172.5667	536.2665		1.2		
+product catalytic rate constant	PGK		245.3827	1/s	245.3827	1.5462	269.8277	123.4041		1.2		
+catalytic rate constant geometric mean	PGM		181.997	1/s	181.997	4.9751	659.255	2295.2445				
+concentration of enzyme	PGM		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	PGM		0.148	dimensionless	0.148	1.6029	0.1655	0.0826		1.2		
+substrate catalytic rate constant	PGM		100.634	1/s	100.634	1.6003	112.3962	55.9078		1.2		
+product catalytic rate constant	PGM		329.1421	1/s	329.1421	22.6443	42761.6213	5555357.2316				
+catalytic rate constant geometric mean	ENO		25.5167	1/s	25.5167	3.5199	56.3266	110.8473				
+concentration of enzyme	ENO		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	ENO		4.1615	dimensionless	4.1615	1.6029	4.6514	2.3225		1.2		
+substrate catalytic rate constant	ENO		175.3596	1/s	175.3596	1.6001	195.8452	97.3899		1.2		
+product catalytic rate constant	ENO		3.713	1/s	3.713	10.9538	65.1495	1141.2912				
+catalytic rate constant geometric mean	AcdDH		5959.2768	1/s	5959.2768	2.075	7778.6201	6525.6904				
+concentration of enzyme	AcdDH		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	AcdDH		0.0002	dimensionless	0.0002	1.6028	0.0002	0.0001		1.2		
+substrate catalytic rate constant	AcdDH		18.7575	1/s	18.7575	1.5999	20.9475	10.4137		1.2		
+product catalytic rate constant	AcdDH		1893272.2862	1/s	1893272.2862	3.3785	3972436.4286	7327376.5916				
+catalytic rate constant geometric mean	PFL		566.1235	1/s	566.1235	1.3954	598.428	205.0272				
+concentration of enzyme	PFL		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	PFL		1826.0182	dimensionless	1826.0182	1.5472	2008.5114	920.1289		1.2		
+substrate catalytic rate constant	PFL		1386.9998	1/s	1386.9998	1.5462	1525.1724	697.5286		1.2		
+product catalytic rate constant	PFL		231.0713	1/s	231.0713	1.5462	254.0905	116.2068		1.2		
+catalytic rate constant geometric mean	Thio		152.7135	1/s	152.7135	1.3954	161.4277	55.3067				
+concentration of enzyme	Thio		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	Thio		0.0	dimensionless	0.0	1.5599	0.0	0.0		1.2		
+substrate catalytic rate constant	Thio		9.0516	1/s	9.0516	1.5588	9.9889	4.6622		1.2		
+product catalytic rate constant	Thio		2576.501	1/s	2576.501	1.5588	2843.3195	1327.0759		1.2		
+catalytic rate constant geometric mean	AAR		16.7914	1/s	16.7914	5.1033	63.3788	230.6737				
+concentration of enzyme	AAR		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	AAR		286.9905	dimensionless	286.9905	1.6029	320.7827	160.1851		1.2		
+substrate catalytic rate constant	AAR		130.7657	1/s	130.7657	1.6003	146.0505	72.6497		1.2		
+product catalytic rate constant	AAR		2.1561	1/s	2.1561	23.8734	330.8082	50753.3426				
+catalytic rate constant geometric mean	G6PDH		29.4986	1/s	29.4986	3.584	66.6224	134.9131				
+concentration of enzyme	G6PDH		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	G6PDH		13.9409	dimensionless	13.9409	1.6029	15.5822	7.7805		1.2		
+substrate catalytic rate constant	G6PDH		650.8481	1/s	650.8481	1.6001	726.8821	361.4684		1.2		
+product catalytic rate constant	G6PDH		1.337	1/s	1.337	11.3815	25.7308	494.5358				
+catalytic rate constant geometric mean	PGase		28.006	1/s	28.006	3.5199	61.8216	121.6612				
+concentration of enzyme	PGase		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	PGase		25355.3935	dimensionless	25355.3935	1.6029	28340.4736	14150.9361		1.2		
+substrate catalytic rate constant	PGase		425.5829	1/s	425.5829	1.6001	475.2995	236.3569		1.2		
+product catalytic rate constant	PGase		1.843	1/s	1.843	10.9538	32.3378	566.4946				
+catalytic rate constant geometric mean	GLNdeh		0.0476	1/s	0.0476	5.0392	0.176	0.6264				
+concentration of enzyme	GLNdeh		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	GLNdeh		27388637.2784	dimensionless	27388637.2784	1.6029	30613528.1784	15287010.9734		1.2		
+substrate catalytic rate constant	GLNdeh		243.173	1/s	243.173	1.6003	271.596	135.0981		1.2		
+product catalytic rate constant	GLNdeh		0.0	1/s	0.0	23.2546	0.0013	0.1857				
+catalytic rate constant geometric mean	KDPGald		3441.0979	1/s	3441.0979	1.9275	4267.7736	3130.8865				
+concentration of enzyme	KDPGald		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	KDPGald		0.0013	dimensionless	0.0013	1.6028	0.0014	0.0007		1.2		
+substrate catalytic rate constant	KDPGald		69.8124	1/s	69.8124	1.5999	77.9629	38.7569		1.2		
+product catalytic rate constant	KDPGald		169614.0315	1/s	169614.0315	2.8118	289434.2994	400205.0538				
+catalytic rate constant geometric mean	PYK		0.9916	1/s	0.9916	5.1033	3.7426	13.6216				
+concentration of enzyme	PYK		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	PYK		21205.8296	dimensionless	21205.8296	1.6029	23702.7422	11836.1269		1.2		
+substrate catalytic rate constant	PYK		207.1162	1/s	207.1162	1.6003	231.3253	115.0679		1.2		
+product catalytic rate constant	PYK		0.0047	1/s	0.0047	23.8734	0.7283	111.7386				
+catalytic rate constant geometric mean	AlcDH		24.9575	1/s	24.9575	6.6354	149.5758	883.874				
+concentration of enzyme	AlcDH		0.001	mM	0.001	100.0	40.2875	1623081.6651				
+equilibrium constant	AlcDH		1317.3202	dimensionless	1317.3202	1.603	1472.4491	735.3251		1.2		
+substrate catalytic rate constant	AlcDH		85.7163	1/s	85.7163	41.076	85240.4725	84767194.5589				
+product catalytic rate constant	AlcDH		7.2667	1/s	7.2667	1.6005	8.1165	4.0384		1.2		
+Michaelis constant	GluKin	Gluc	0.0693	mM	0.0693	1.5876	0.0771	0.0376		1.2		
+Michaelis constant	GluKin	ATP	0.2256	mM	0.2256	1.5876	0.251	0.1225		1.2		
+Michaelis constant	GluKin	G6P	0.0914	mM	0.0914	9.3481	1.1108	13.4598				
+Michaelis constant	GluKin	ADP	1.8443	mM	1.8443	1.5876	2.0522	1.0015		1.2		
+Michaelis constant	GAPDH	Pi	0.4517	mM	0.4517	1.5876	0.5027	0.2453		1.2		
+Michaelis constant	GAPDH	G3P	0.7429	mM	0.7429	1.5876	0.8266	0.4034		1.2		
+Michaelis constant	GAPDH	NAD	0.0424	mM	0.0424	1.5876	0.0471	0.023		1.2		
+Michaelis constant	GAPDH	BPG	0.0696	mM	0.0696	9.383	0.8534	10.4275				
+Michaelis constant	GAPDH	NADH	0.0696	mM	0.0696	9.383	0.8534	10.4275				
+Michaelis constant	PGK	ADP	0.1861	mM	0.1861	1.5358	0.2041	0.0918		1.2		
+Michaelis constant	PGK	BPG	0.0036	mM	0.0036	1.5358	0.0039	0.0018		1.2		
+Michaelis constant	PGK	ATP	0.7976	mM	0.7976	1.5358	0.8745	0.3932		1.2		
+Michaelis constant	PGK	P3G	0.3537	mM	0.3537	1.5358	0.3878	0.1744		1.2		
+Michaelis constant	PGM	P3G	0.1437	mM	0.1437	9.379	1.7603	21.4881				
+Michaelis constant	PGM	P2G	0.0696	mM	0.0696	9.379	0.8522	10.4036				
+Michaelis constant	ENO	P2G	0.2591	mM	0.2591	1.5876	0.2883	0.1407		1.2		
+Michaelis constant	ENO	PEP	0.2566	mM	0.2566	1.5876	0.2856	0.1394		1.2		
+Michaelis constant	ENO	H2O	0.089	mM	0.089	9.3466	1.0811	13.0946				
+Michaelis constant	AcdDH	NADH	0.0245	mM	0.0245	1.5875	0.0273	0.0133		1.2		
+Michaelis constant	AcdDH	AcCoA	0.0072	mM	0.0072	1.5875	0.008	0.0039		1.2		
+Michaelis constant	AcdDH	NAD	0.0702	mM	0.0702	1.5875	0.0781	0.0381		1.2		
+Michaelis constant	AcdDH	ACDH	7.223	mM	7.223	1.5875	8.0371	3.922		1.2		
+Michaelis constant	AcdDH	CoA	0.0077	mM	0.0077	1.5875	0.0086	0.0042		1.2		
+Michaelis constant	PFL	PYR	1.1221	mM	1.1221	1.5358	1.2303	0.5531		1.2		
+Michaelis constant	PFL	CoA	0.0048	mM	0.0048	1.5358	0.0053	0.0024		1.2		
+Michaelis constant	PFL	AcCoA	0.0668	mM	0.0668	1.5358	0.0733	0.0329		1.2		
+Michaelis constant	PFL	FOR	24.5215	mM	24.5215	1.5358	26.8856	12.087		1.2		
+Michaelis constant	Thio	AcCoA	0.1172	mM	0.1172	1.4146	0.1244	0.0445		1.2		
+Michaelis constant	Thio	CoA	0.0082	mM	0.0082	1.5475	0.009	0.0041		1.2		
+Michaelis constant	Thio	AcAcCoA	0.0174	mM	0.0174	1.5475	0.0191	0.0088		1.2		
+Michaelis constant	AAR	NADH	0.0401	mM	0.0401	1.5876	0.0446	0.0218		1.2		
+Michaelis constant	AAR	AcAcCoA	0.0463	mM	0.0463	1.5876	0.0515	0.0252		1.2		
+Michaelis constant	AAR	NAD	0.0937	mM	0.0937	9.3817	1.1487	14.0318				
+Michaelis constant	AAR	HBCoA	0.0937	mM	0.0937	9.3817	1.1487	14.0318				
+Michaelis constant	G6PDH	G6P	0.9335	mM	0.9335	1.5876	1.0387	0.5069		1.2		
+Michaelis constant	G6PDH	NAD	1.3155	mM	1.3155	1.5876	1.4638	0.7144		1.2		
+Michaelis constant	G6PDH	NADH	0.4026	mM	0.4026	1.5876	0.448	0.2186		1.2		
+Michaelis constant	G6PDH	P6Glac	0.0874	mM	0.0874	9.3481	1.062	12.8686				
+Michaelis constant	PGase	H2O	0.1137	mM	0.1137	9.3466	1.3823	16.7437				
+Michaelis constant	PGase	P6Glac	0.0239	mM	0.0239	1.5876	0.0266	0.013		1.2		
+Michaelis constant	PGase	P6GLN	0.2982	mM	0.2982	1.5876	0.3318	0.1619		1.2		
+Michaelis constant	GLNdeh	P6GLN	0.0363	mM	0.0363	1.5876	0.0404	0.0197		1.2		
+Michaelis constant	GLNdeh	H2O	0.1951	mM	0.1951	9.3803	2.3907	29.1934				
+Michaelis constant	GLNdeh	KDPG	0.1951	mM	0.1951	9.3803	2.3907	29.1934				
+Michaelis constant	KDPGald	KDPG	0.2229	mM	0.2229	1.5875	0.2481	0.1211		1.2		
+Michaelis constant	KDPGald	PYR	2.2739	mM	2.2739	1.5875	2.5302	1.2347		1.2		
+Michaelis constant	KDPGald	G3P	0.3054	mM	0.3054	1.5875	0.3398	0.1658		1.2		
+Michaelis constant	PYK	PEP	0.263	mM	0.263	1.5876	0.2926	0.1428		1.2		
+Michaelis constant	PYK	ADP	0.1394	mM	0.1394	1.5876	0.1551	0.0757		1.2		
+Michaelis constant	PYK	PYR	0.1335	mM	0.1335	9.3817	1.6361	19.9853				
+Michaelis constant	PYK	ATP	0.1335	mM	0.1335	9.3817	1.6361	19.9853				
+Michaelis constant	AlcDH	ACDH	0.0892	mM	0.0892	9.412	1.1011	13.5486				
+Michaelis constant	AlcDH	NADH	0.0892	mM	0.0892	9.412	1.1011	13.5486				
+Michaelis constant	AlcDH	ETOH	7.9253	mM	7.9253	1.5877	8.8189	4.3044		1.2		
+Michaelis constant	AlcDH	NAD	0.1121	mM	0.1121	9.412	1.384	17.0293				
